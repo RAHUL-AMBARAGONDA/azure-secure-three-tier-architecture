@@ -17,7 +17,7 @@ A resource group in Azure is a logical container that holds all the resources re
 az group create --name SecurityLab-RG --location eastus
 ```
 
--What happens? A resource group named `SecurityLab-RG` is created in the `East US` region. All the resources you create will be placed in this resource group for easy management.
+**-What happens?** A resource group named `SecurityLab-RG` is created in the `East US` region. All the resources you create will be placed in this resource group for easy management.
 
 Create a Virtual Network (VNet)
 The virtual network (VNet) provides network isolation and is the foundation of your secure infrastructure. It allows communication between resources while enabling control over IP address ranges, subnets, routing, and security.
