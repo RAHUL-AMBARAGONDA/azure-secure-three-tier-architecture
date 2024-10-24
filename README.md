@@ -1,10 +1,10 @@
- Azure Security Lab: Securing a Three-Tier Architecture
+ *Azure Security Lab: Securing a Three-Tier Architecture*
 
-Lab Overview
+*Lab Overview*
 
-This lab demonstrates how to deploy and secure a three-tier architecture (Web, App, and Database) on Azure. You will use an Azure Kubernetes Service (AKS) cluster for hosting the application and leverage Azure's security features like Network Security Groups (NSGs), Azure Load Balancer, Azure Sentinel, and more to protect the infrastructure. The lab will guide you through setting up 10 users for role-based access and connecting security services to monitor and detect threats.
+This lab demonstrates how to deploy and secure a three-tier architecture (Web, App, and Database) on Azure. You will use an Azure Kubernetes Service (AKS) cluster for hosting the application and leverage Azure's security features like Network Security Groups (NSGs), Azure Load Balancer, Azure Sentinel, and more to protect the infrastructure. The lab will guide you through setting up 1 user for role-based access and connecting security services to monitor and detect threats.
 
-Step-by-Step Guide with Explanations
+*Step-by-Step Guide with Explanations*
 
 1. Setting Up the Azure Environment
 
