@@ -249,7 +249,7 @@ We connect various Azure services (AKS, SQL, NSGs) to Sentinel to provide real-t
 az sentinel data-source connect --workspace-name SentinelWorkspace --resource-group SecurityLab-RG --source-type AKS --source-id <AKSResourceID>
 ```
 
-- **What happens?** This command connects AKS to Sentinel, allowing Sentinel to monitor the AKS cluster for security incidents such as anomalous network traffic or suspicious user behavior.
+- What happens? This command connects AKS to Sentinel, allowing Sentinel to monitor the AKS cluster for security incidents such as anomalous network traffic or suspicious user behavior.
 
 Create Alerts in Sentinel
 
