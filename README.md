@@ -23,7 +23,7 @@ Create a Virtual Network (VNet)
 The virtual network (VNet) provides network isolation and is the foundation of your secure infrastructure. It allows communication between resources while enabling control over IP address ranges, subnets, routing, and security.
 
 ```bash
-az network vnet create \
+
 --name SecurityVNet \
 --resource-group SecurityLab-RG \
 --address-prefixes 10.0.0.0/16 \
