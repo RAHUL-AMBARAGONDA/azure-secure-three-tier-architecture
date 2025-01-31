@@ -1,4 +1,4 @@
-  **Azure Security Lab: Securing a Three-Tier Architecture**
+ **Azure Security Lab: Securing a Three-Tier Architecture**
 
 **Lab Overview**
 
