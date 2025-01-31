@@ -253,7 +253,7 @@ az sentinel data-source connect --workspace-name SentinelWorkspace --resource-gr
 
 Create Alerts in Sentinel
 
-You can create custom alert rules in Sentinel to detect specific types of threats. For example, an alert can trigger if there’s a brute force login attempt.
+Yo can create custom alert rules in Sentinel to detect specific types of threats. For example, an alert can trigger if there’s a brute force login attempt.
 
 ```bash
 az sentinel alert-rule create --resource-group SecurityLab-RG --workspace-name SentinelWorkspace --name SuspiciousActivityAlert --query <Query for detection>
